@@ -4,7 +4,7 @@ progettino di Foundations of Computer Science sul database movies
 
 All groups and individual must do the following:
 
- 1   For each movie, compute the number of cast members
+ 1   For each movie, compute the number of cast members\n
  2   How many movies do not have a homepage?
  3   For each year, how many movies do not have a homepage?
  4   Extract the domain of each homepage.
